@@ -1,6 +1,6 @@
 # A Word Memorization App Using Spaced Repetition
 
-Bu proje, kullanıcıların İngilizcedeki bazı kelimeleri ezberlemelerine yardımcı olan aynı zamanda öğrenmek istedikleri kelimeleri ekleyebilecekleri bir kelime ezberleme oyunudur. Oyun, kullanıcıların kelimeleri altı kez tekrar ederek daha etkili bir şekilde öğrenmelerini sağlayan bir metodoloji (Spaced Repetition) kullanır.
+Bu proje, kullanıcıların öğrenmek istedikleri dildeki bazı kelimeleri ezberlemelerine yardımcı olan aynı zamanda öğrenmek istedikleri kelimeleri ekleyebilecekleri web tabanlı bir kelime ezberleme uygulamasıdır. Bu uygulama, kullanıcıların kelimeleri belli aralıklarla tekrar ederek daha etkili bir şekilde öğrenmelerini sağlayan bir metodoloji (Spaced Repetition) kullanır.
 
 ### Proje Kurulumu
 
