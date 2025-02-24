@@ -1,8 +1,6 @@
-# yazyapproje
+# A Word Memorization App Using Spaced Repetition
 
-## Kelime Ezberleme Oyunu
-
-Bu proje, kullanıcıların İngilizcedeki bazı kelimeleri ezberlemelerine yardımcı olan aynı zamanda öğrenmek istedikleri kelimeleri ekleyebilecekleri bir kelime ezberleme oyunudur. Oyun, kullanıcıların kelimeleri altı kez tekrar ederek daha etkili bir şekilde öğrenmelerini sağlayan bir metodoloji kullanır.
+Bu proje, kullanıcıların İngilizcedeki bazı kelimeleri ezberlemelerine yardımcı olan aynı zamanda öğrenmek istedikleri kelimeleri ekleyebilecekleri bir kelime ezberleme oyunudur. Oyun, kullanıcıların kelimeleri altı kez tekrar ederek daha etkili bir şekilde öğrenmelerini sağlayan bir metodoloji kullanır. (Spaced Repetition)
 
 ### Proje Kurulumu
 
